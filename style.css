@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+}
+#image {
+  background-image: ;
+}
+h1,
+h2,
+h3 {
+  color: green;
+}
+ul {
+  list-style-type: none;
+}
+article {
+  border-style: solid;
+  border-color: grey;
+  border-radius: 10px;
+}
+article:hover {
+  background-color: grey;
+}
+footer {
+  background-color: green;
+}
+#ftr {
+  text-align: center;
+  margin: 10;
+  padding: 10;
+}
+nav ul {
+  list-style-type: none;
+  margin: 10;
+  padding: 0;
+  display: flex;
+  background-color: grey;
+}
+ul li a {
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-style: solid;
+  border-radius: 10;
+  border-color: white;
+}
+.container {
+  display: inline-grid;
+}
